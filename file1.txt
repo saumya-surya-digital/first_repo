@@ -1,4 +1,4 @@
 abc
 ...
 1st edit of file1
-
+2nd edit of file2
